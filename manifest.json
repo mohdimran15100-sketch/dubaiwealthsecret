@@ -1,0 +1,16 @@
+{
+  "name": "Dubai Wealth Secret",
+  "short_name": "DWS",
+  "description": "Official website for the Dubai Wealth Secret calm and focus audio ritual.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0A0A0A",
+  "theme_color": "#0A0A0A",
+  "icons": [
+    {
+      "src": "assets/dubai-wealth-secret-official.webp",
+      "sizes": "192x192",
+      "type": "image/webp"
+    }
+  ]
+}

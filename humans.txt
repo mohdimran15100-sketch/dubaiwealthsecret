@@ -1,0 +1,9 @@
+# humanstxt.org
+
+Site owner: Dubai Wealth Secret
+Contact: support@dubaiwealthsecret.com
+Language: English
+
+This site is the official web presence for the Dubai Wealth Secret audio program and companion guides.
+
+Technologies: HTML5, CSS3, JavaScript, JSON-LD
